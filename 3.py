@@ -11,5 +11,7 @@ age = input("Enter your age: ")
 print(age)
 print(type(age))
 
+# name = int(input("Enter your age: ")) type conversion
+
 # Convert the input to an integer.
 # age = int(input("Enter Age: "))
